@@ -1,2 +1,2 @@
 # interfactura-exercises
-Technical exercises for Interfactura's evaluation
+Technical exercises of Interfactura company
